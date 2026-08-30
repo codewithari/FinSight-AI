@@ -52,7 +52,7 @@ Supported formats include:
 - XLSX
 - XLS
 
-The application attempts to identify and process transaction information from different statement structures.
+Supports common CSV/XLS/XLSX statement structures with automatic transaction-table detection and normalization.
 
 ---
 
@@ -291,22 +291,17 @@ This helped reinforce an important principle for me:
 | **GitHub**    | Source code and project documentation       |
 
 ---
+## 🖥️ Application Preview
 
-# 🖥️ Application Preview
-
-## FinSight AI Dashboard
+### Dashboard
 
 ![FinSight AI Dashboard](screenshots/dashboard.png)
 
----
-
-## Statement Upload
+### Statement Upload
 
 ![Statement Upload](screenshots/statement-upload.png)
 
----
-
-## AI Financial Insights
+### AI Financial Insights
 
 ![AI Financial Insights](screenshots/ai-insights.png)
 
